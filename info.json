@@ -1,4 +1,6 @@
 {
   "base": "1.0.0",
-  "perfecthands": "2.0.1"
+  "perfecthands": "2.0.1",
+  "targets": "1.0.0",
+  "holograms": "1.0.0"
 }
