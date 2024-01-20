@@ -1,6 +1,7 @@
 {
   "base": "1.1.0",
-  "perfecthands": "2.1.0",
+  "perfecthands": "2.1.1",
+  "perfecthud": "1.0.0",
   "targets": "1.0.0",
   "holograms": "1.0.0",
   "anbr": "1.0.0"
